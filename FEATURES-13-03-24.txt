@@ -1,1 +1,1 @@
-[ERROR] Your maven project could not be executed
+[ERROR] Your project could not be compiled and run using Maven
